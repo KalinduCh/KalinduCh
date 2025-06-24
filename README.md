@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 3rd-year Undergraduate at SLIIT CITY UNI (University of Bedfordshire Affiliate)<br>🧑‍💻 Aspiring Software Engineer <br>🌐 Web Development Enthusiast <br>🎨 UI/UX Enthusiast <br>📚 Lifelong Learner
+👨‍💻 Recent Graduate - Computer science & Software engineering (University of Bedfordshire Affiliate)<br>🧑‍💻 Aspiring Software Engineer <br>🌐 Web Development Enthusiast <br>🎨 UI/UX Enthusiast <br>📚 Lifelong Learner
 
 
 ## 🌐 Socials:
